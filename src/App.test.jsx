@@ -9,7 +9,7 @@ describe("Task Manager", () => {
 
     expect(
       screen.getByRole("heading", {
-        name: "React Task Manager",
+        name: "Welcome Sarath!",
       }),
     ).toBeInTheDocument();
   });
