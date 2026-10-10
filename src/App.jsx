@@ -36,7 +36,7 @@ export default function App() {
 
   return (
     <main className="container">
-      <h1>React Task Manager</h1>
+      <h1>Welcome Sarath!</h1>
       <p>Learn React, GitHub Actions and CI/CD.</p>
 
       <form onSubmit={addTask}>
